@@ -1,6 +1,1 @@
 - 👋 Hi, I’m @podpayne
-- 👀 I’m interested in javaScript
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
